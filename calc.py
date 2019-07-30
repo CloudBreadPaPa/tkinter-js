@@ -18,5 +18,6 @@ btn = Button(root, text="OK", command = okClick)
 btn.grid(row=1, column=1)
 
 # adding function
+# code fun
 
 root.mainloop()
